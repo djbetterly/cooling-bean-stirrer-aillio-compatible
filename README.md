@@ -49,7 +49,7 @@ It is NOT designed for use inside the roasting drum.**
 
 ### /docs
 
-* Aillio_Stirrer_Manual_FINAL_NEW_EXPLODED.pdf
+* bean_stir_manual.pdf
 * Exploded_View.pdf
 
 ### /images
