@@ -1,19 +1,21 @@
-Totally fair. Let’s stop fighting the code fences and do this the simple way.
+Perfect — that’s clean, safe, and professional.
 
-Below is the **entire README.md as plain text**.
-**Copy from the first line (`# Aillio Bean Stirrer`) through the last line** and paste it straight into your README on GitHub.
+I’ll rewrite your **entire README** using that exact product name, keeping all your structure, adding the compatibility disclaimer, and updating every reference.
 
-No extra backticks, no nested code blocks, nothing fancy.
+Below is the **fully updated README.md** in plain text.
+Copy/paste directly into GitHub — no formatting issues.
 
 ---
 
-# Aillio Bean Stirrer
+# R1/R2 Cooling Bowl Stirrer (Aillio-Compatible)
 
 ### Open Hardware Release • Designed by Dustin Betterly
 
 <img src="images/hero_render.png" width="900"/>
 
-The **Aillio Bean Stirrer** is an open-hardware accessory designed for the **Aillio R1 and R2 cooling bowls**.
+This **cooling bowl stirrer** is an open-hardware accessory **designed for compatibility with the Aillio R1 and R2 cooling bowls**.
+It is **not affiliated with or endorsed by Aillio**.
+
 Its purpose is simple: **speed up the cooling cycle and help remove any chaff that didn’t escape during roasting.**
 
 By actively agitating the beans during cooling, the stirrer:
@@ -43,7 +45,7 @@ It is NOT designed for use inside the roasting drum.**
 
 ## 📦 Repository Contents
 
-/STL
+### /STL
 
 * 3D Print - Bean Stirrer.stl
 * 3D Print - Bottom Wear Plate.stl
@@ -54,19 +56,19 @@ It is NOT designed for use inside the roasting drum.**
 * 3D Print Motor Body Wire Cover.stl
 * Motor Body Cover.stl
 
-/docs
+### /docs
 
 * Aillio_Stirrer_Manual_FINAL_NEW_EXPLODED.pdf
 * Exploded_View.pdf
 
-/images
+### /images
 
 * hero_render.png
 
 Other:
 
 * README.md
-* LICENSE
+* LICENSE (CC BY-NC 4.0)
 
 ---
 
@@ -103,11 +105,11 @@ The stainless square bar must be cut to **80 mm** final length.
 
 Steps:
 
-1. Mark 80 mm with calipers or a precise ruler.
-2. Cut using a hacksaw, bandsaw, or cutoff wheel.
-3. Deburr both ends with a file or sandpaper.
-4. Verify a smooth sliding fit into the printed hubs.
-5. Target tolerance: 80 ± 0.25 mm.
+1. Mark 80 mm with calipers or a precise ruler
+2. Cut using a hacksaw, bandsaw, or cutoff wheel
+3. Deburr both ends with a file or sandpaper
+4. Verify a smooth sliding fit into the printed hubs
+5. Target tolerance: **80 ± 0.25 mm**
 
 ---
 
@@ -115,15 +117,15 @@ Steps:
 
 ### Stir Paddle (PA6-CF)
 
-* Print upside-down.
-* Supports: build plate only.
-* Add a pause to insert the embedded nut.
-* Optional: coat in resin and sand for a smoother finish.
+* Print upside-down
+* Supports: build plate only
+* Add a pause to insert the embedded nut
+* Optional: resin coat + sand for smoother finish
 
 ### Thumb Screws
 
-* Pause print to insert the M5 screw.
-* Secure with resin or superglue.
+* Pause print to insert the M5 screw
+* Secure using resin or cyanoacrylate
 
 ---
 
@@ -136,36 +138,39 @@ See:
 
 General notes:
 
-* Center the stir paddle on the cooling bowl’s middle pin.
-* Do not overtighten the paddle screw; it should rotate freely.
-* Leave motor screws slightly loose during alignment.
-* Apply blue Loctite after final positioning.
+* Center the stir paddle on the cooling bowl’s middle pin
+* Do **not** overtighten the paddle screw — it must rotate freely
+* Leave motor screws slightly loose during alignment
+* Apply blue Loctite after the final position is confirmed
 
 ---
 
 ## ⚡ Motor & Power
 
-* 12 V DC motor.
-* If the paddle spins backward, swap polarity on the motor leads.
-* Recommended power supply: 12 V / 2 A.
+* Uses a 12 V DC motor
+* If the paddle spins backward → swap + and – wires
+* Recommended power supply: **12 V / 2 A**
 
 ---
 
 ## 🛡 License — CC BY-NC 4.0
 
+This project is released under a **Creative Commons Attribution-NonCommercial 4.0 International License**.
+
 You may:
 
-* Print and remix for personal use.
-* Share non-commercially.
-* Must credit: **Dustin Betterly**.
+* Print and remix for personal use
+* Share non-commercially
+* Must credit: **Dustin Betterly**
 
-You may not:
+You may NOT:
 
-* Sell the files.
-* Sell printed parts or kits.
-* Use this design commercially without permission.
+* Sell the files
+* Sell printed parts or kits
+* Use commercially without permission
 
-Full license: [https://creativecommons.org/licenses/by-nc/4.0/](https://creativecommons.org/licenses/by-nc/4.0/)
+Full license text:
+[https://creativecommons.org/licenses/by-nc/4.0/](https://creativecommons.org/licenses/by-nc/4.0/)
 
 ---
 
@@ -183,11 +188,13 @@ images/hero_render.png
 
 ### v1.0 — Initial Public Release
 
-* Finalized STL files.
-* Updated exploded view.
-* Complete build manual.
-* Purpose clarified (cooling + chaff removal).
-* CC BY-NC license applied.
+* Finalized STL files
+* Updated exploded view
+* Complete build manual
+* Updated naming for trademark safety
+* CC BY-NC license applied
 
 > If you build it, share your results!
 > Pull requests, improvements, and remixes are welcome (non-commercial only).
+
+---
