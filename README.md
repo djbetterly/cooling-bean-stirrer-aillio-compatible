@@ -1,5 +1,17 @@
 # R1/R2 Cooling Bowl Stirrer (Aillio-Compatible)
 
+<p align="center">
+  <img src="https://img.shields.io/badge/License-CC%20BY--NC%204.0-blue.svg" />
+  <img src="https://img.shields.io/badge/Status-Stable-brightgreen.svg" />
+  <img src="https://img.shields.io/badge/Version-v1.0-orange.svg" />
+  <a href="https://github.com/djbetterly/cooling-bean-stirrer-aillio-compatible/releases">
+    <img src="https://img.shields.io/github/v/release/djbetterly/cooling-bean-stirrer-aillio-compatible?color=blue" />
+  </a>
+  <a href="https://github.com/djbetterly/cooling-bean-stirrer-aillio-compatible">
+    <img src="https://img.shields.io/github/last-commit/djbetterly/cooling-bean-stirrer-aillio-compatible" />
+  </a>
+</p>
+
 ### Open Hardware Release • Designed by Dustin Betterly
 
 <img src="images/hero_render.png" width="900"/>
