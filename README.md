@@ -1,12 +1,3 @@
-Perfect — that’s clean, safe, and professional.
-
-I’ll rewrite your **entire README** using that exact product name, keeping all your structure, adding the compatibility disclaimer, and updating every reference.
-
-Below is the **fully updated README.md** in plain text.
-Copy/paste directly into GitHub — no formatting issues.
-
----
-
 # R1/R2 Cooling Bowl Stirrer (Aillio-Compatible)
 
 ### Open Hardware Release • Designed by Dustin Betterly
